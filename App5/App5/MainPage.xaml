@@ -7,7 +7,7 @@
              x:Class="App5.MainPage">
 
     <StackLayout>
-        <Button Text="HOLA" />
+        <Button Text="HOLA test" />
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
