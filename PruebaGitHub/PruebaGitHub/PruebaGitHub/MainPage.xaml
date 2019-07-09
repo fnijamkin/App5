@@ -8,6 +8,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
+           <Button Text="Hola" />
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
