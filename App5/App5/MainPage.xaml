@@ -7,10 +7,10 @@
              x:Class="App5.MainPage">
 
     <StackLayout>
-        <Button Text="HOLA test" />
+        <Button Text="Mensaje" Clicked="Aviso" />
         <Button Text="Pepe" />
         <Button Text="Pepe 2" />
-        <Button Text="Pepe 3" />
+        <Button x:Name="btnVer" Text="Ver" Clicked="Ver" />
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />

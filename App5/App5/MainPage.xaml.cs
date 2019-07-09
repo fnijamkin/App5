@@ -16,6 +16,20 @@ namespace App5
         public MainPage()
         {
             InitializeComponent();
+           
+        }
+
+        private void Ver(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Pantallas.pantalla2());
+          
+        }
+
+      
+
+        private void Aviso(object sender, EventArgs e)
+        {
+            DisplayAlert("Alert", "You have been alerted", "OK");
         }
     }
 }
