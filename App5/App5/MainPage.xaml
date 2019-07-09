@@ -10,6 +10,7 @@
         <Button Text="HOLA test" />
         <Button Text="Pepe" />
         <Button Text="Pepe 2" />
+        <Button Text="Pepe 3" />
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
